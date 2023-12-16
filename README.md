@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm pursuing a PhD in Statistics at Oregon State University
+- 📊 I work as a statistical consultant for grad students at OSU and as a TA for our department's statistical consulting practicum class
+- 👨‍🏫 I'm currently developing lecture materials for said consulting practicum class 
+- 🧗‍♂️ In my free time, I like to sport climb in the gym and outside
